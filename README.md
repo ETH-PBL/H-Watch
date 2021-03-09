@@ -21,8 +21,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/tommasopolonelli/SynthSense-WSN-UAV">
-    <img src="img/syslogo.jpg" alt="Logo" width="1269" height="325">
+  <a href="https://github.com/ETH-PBL/H-Watch">
+    <img src="img/abstract.png" alt="Logo" width="1269" height="325">
   </a>
 
   <h3 align="center">H-Watch</h3>
