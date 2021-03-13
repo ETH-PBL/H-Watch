@@ -66,7 +66,7 @@
 ### Built With
 The H-Watch is a highly integrated multi-sensor wearable platform which is built of the key components, listed below: 
 
-* [MAX30101EFD+](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX30101.html)
+* [MAX30101EFD+](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX30101.html) hadhahdadh
 * [LSM303AGR](https://www.st.com/en/mems-and-sensors/lsm303agr.html)
 * [LPS22HB](https://www.st.com/en/mems-and-sensors/lps22hb.html)
 * [LSM6DSM](https://www.st.com/en/mems-and-sensors/lsm6dsm.html)
@@ -75,15 +75,6 @@ The H-Watch is a highly integrated multi-sensor wearable platform which is built
 * [STM32WB55RG](https://www.st.com/en/microcontrollers-microprocessors/stm32wb55rg.html)
 * [BC95GJB-02-STD]
 
-
-
-
-
-* [DJI Matrice 100](https://www.dji.com/it/matrice100)
-* [DJI SDK for embedded Systems](https://developer.dji.com/onboard-sdk/documentation/development-workflow/environment-setup.html#stm32)
-* [Decawave EVK1000](https://www.decawave.com/product/evk1000-evaluation-kit/)
-* [STM32F407G-DISC1](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
-* [SynthSense custom sensor node](https://github.com/tommasopolonelli/SynthSense-WSN-UAV/tree/master/SensorNode/HW)
 
 
 <!-- GETTING STARTED -->
