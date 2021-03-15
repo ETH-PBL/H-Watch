@@ -91,7 +91,7 @@ File                        | Content
 [H_Watch_fabrication.pdf]   | Detailed fabrication information about the exansion board; thickness, dimensions and defined layer stack.
 [H-Watch_layers.pdf]        | Routing overview of all six copper layers.
 
-The latest Altium files of of the PCB can be found [latest_altium_files]
+The latest Altium files of of the PCB can be found [here][latest_altium_files]
 
 
 <!-- GETTING STARTED -->
@@ -158,7 +158,7 @@ This project is mainly compoed by three subsystems: the UAVs, the Wireless Trans
 [H_Watch_assembly.pdf]:
 [H_Watch_fabrication.pdf]:
 [H-Watch_layers.pdf]: 
-[latest_altium_files]:      /Hardware/H-Watch_V0.1/   "here"
+[latest_altium_files]:      /Hardware/H-Watch_V0.1/   
 
 [contributors-shield]: https://img.shields.io/github/contributors/tommasopolonelli/SynthSense-WSN-UAV.svg?style=flat-square
 [contributors-url]: https://github.com/tommasopolonelli/SynthSense-WSN-UAV/graphs/contributors
