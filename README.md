@@ -91,7 +91,7 @@ File                        | Content
 [H_Watch_fabrication.pdf]   | Detailed fabrication information about the exansion board; thickness, dimensions and defined layer stack.
 [H-Watch_layers.pdf]        | Routing overview of all six copper layers.
 
-The latest Altium files of of the PCB can be found [here][altium_files]
+The latest Altium files of of the PCB can be found [here][latest_altium_files]
 
 
 <!-- GETTING STARTED -->
