@@ -158,7 +158,7 @@ This project is mainly compoed by three subsystems: the UAVs, the Wireless Trans
 [H_Watch_assembly.pdf]
 [H_Watch_fabrication.pdf]
 [H-Watch_layers.pdf] 
-[latest_altium_files]:      ../../../   "here"
+[latest_altium_files]:      /   "here"
 
 [contributors-shield]: https://img.shields.io/github/contributors/tommasopolonelli/SynthSense-WSN-UAV.svg?style=flat-square
 [contributors-url]: https://github.com/tommasopolonelli/SynthSense-WSN-UAV/graphs/contributors
