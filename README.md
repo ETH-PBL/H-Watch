@@ -153,12 +153,12 @@ This project is mainly compoed by three subsystems: the UAVs, the Wireless Trans
 [powerwatch_url]:   https://www.powerwatch.com/collections/powerwatch/products/black-ops-pack-10  
 
 <!--Subsection PCB-->
-[H_Watch_schematics.pdf]
-[H_Watch_connectors. pdf]
-[H_Watch_assembly.pdf]
-[H_Watch_fabrication.pdf]
-[H-Watch_layers.pdf] 
-[latest_altium_files]:      /   "here"
+[H_Watch_schematics.pdf]:
+[H_Watch_connectors. pdf]:
+[H_Watch_assembly.pdf]:
+[H_Watch_fabrication.pdf]:
+[H-Watch_layers.pdf]: 
+[latest_altium_files]:      /Hardware/H-Watch_V0.1/   "here"
 
 [contributors-shield]: https://img.shields.io/github/contributors/tommasopolonelli/SynthSense-WSN-UAV.svg?style=flat-square
 [contributors-url]: https://github.com/tommasopolonelli/SynthSense-WSN-UAV/graphs/contributors
