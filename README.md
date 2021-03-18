@@ -46,23 +46,19 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Built With](#built-with)
+* [Hardware](#hardware)
+  * [Components](#hardware)
+  * [PCB](#pcb) 
 * [Getting Started](#getting-started)
+  * [Software](#software)
   * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
+  
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-design  and  implementation  of  anopen-source wearable long-lasting smart monitoring platformfor  health  monitoring  and  tracking,  which  can  provide  directcloud  connectivity  through  state-of-the-art  NB-IoT  cellulartechnology.  The  H-Watch  is  based  on  widely  available  off-the-shelf components; however, it is designed with low powerand on-board intelligence in mind. By continuously measuringthe blood oxygenation and heart rate with a sampling rate of50 Hz, accurate results can be achieved with a battery life of9 days or 20 days, respectively non-using and using the solarenergy harvester.
-
+The H-Watch is a fully open-sourde wearable long-lasting smart monitoring platform for health monitoring and tracking. Thanks to the integrated state-of-the-art NB-IoT cellular technology, it provides direct and secure cloud connectivity. It  is  based  on  widely  available  off-the-shelf components; however, it is designed with low-power and on-board intelligence in mind. Experimentalresults demonstrated only 5.9 mW of average power consumption, leading to a lifetime of 9 days on a small watch battery wothout, and up to 20 days with the solarenergy harvester.
 
 ## Hardware
 
@@ -97,35 +93,6 @@ The latest Altium files of of the PCB can be found [here][latest_altium_files]
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This project is mainly compoed by three subsystems: the UAVs, the Wireless Transceiver, and the Sensor Node. For each subsystem we propose the source code and the hardware platform, including results and simulations.
-
-
-
-
-* Sensor node, not yet available from commercial stores.
-
-<p align="center">
-  <a href="https://github.com/tommasopolonelli/SynthSense-WSN-UAV">
-    <img src="img/sno.png" alt="Logo" width="1269" height="325">
-  </a>
-</p>
-
-- [UWB antenna WB002](https://www.decawave.com/uwb-antennae-design-files/)
-*[Decawave EVK1000](https://www.decawave.com/product/evk1000-evaluation-kit/)
-* [STM32F407G-DISC1](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
-* [DJI Matrice 100](https://www.dji.com/it/matrice100)
-* [Micro SD adapter](https://www.digikey.it/product-detail/it/adafruit-industries-llc/254/1528-1462-ND/5761230)
-* [USB-UART adapter](https://it.aliexpress.com/item/2024415412.html)
-* Micro SD Card (min 2 GB)
-
-<p align="center">
-  <a href="https://github.com/tommasopolonelli/SynthSense-WSN-UAV">
-    <img src="img/dji_EVK1000.jpg" alt="Logo" width="1269" height="1269">
-  </a>
-</p>
-
-
-
 #### Software
 
 ### Installation
@@ -153,11 +120,11 @@ This project is mainly compoed by three subsystems: the UAVs, the Wireless Trans
 [powerwatch_url]:   https://www.powerwatch.com/collections/powerwatch/products/black-ops-pack-10  
 
 <!--Subsection PCB-->
-[H_Watch_schematics.pdf]:
+<!--[H_Watch_schematics.pdf]:
 [H_Watch_connectors. pdf]:
 [H_Watch_assembly.pdf]:
 [H_Watch_fabrication.pdf]:
-[H-Watch_layers.pdf]: 
+[H-Watch_layers.pdf]: -->
 [latest_altium_files]:      /Hardware/H-Watch_V0.1/   
 
 [contributors-shield]: https://img.shields.io/github/contributors/tommasopolonelli/SynthSense-WSN-UAV.svg?style=flat-square
