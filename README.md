@@ -82,7 +82,7 @@ The H-Watchs printed circuit board (PCB) is built of 6 Layers with a total board
 File                                  | Content
 --------------------------------------|--------
 [H-Watch_schematics.pdf]              | Schematics of the H-Watch.  
-[H-Watch_connectors. pdf]             | Description of the position and functionality of all connectors and test pionts.
+[H-Watch_connectors.pdf]             | Description of the position and functionality of all connectors and test pionts.
 [H-Watch_assembly.pdf]                | Assembly drawings of the top- and bottom-side of the PCB.
 [H-Watch_manufacturing.pdf]           | Detailed fabrication information about the exansion board; thickness, dimensions and defined layer stack.
 [H-Watch_layers.pdf]                  | Routing overview of all six copper layers.
@@ -124,10 +124,9 @@ The latest Altium files of of the PCB can be found [here][latest_altium_files]
 
 <!--Subsection PCB-->
 
-[current_version]:  H-Watch_V0.2
 
-[H-Watch_schematics.pdf]:                 /Hardware/[current_version]/Documentation/H-Watch_schematics.PDF
-[H-Watch_connectors.pdf]:                /Hardware/H-Watch_V0.2/Documentation/H-Watch_connectors.PDF
+[H-Watch_schematics.pdf]:                 /Hardware/H-Watch_V0.2/Documentation/H-Watch_schematics.PDF
+[H-Watch_connectors.pdf]:                 /Hardware/H-Watch_V0.2/Documentation/H-Watch_connectors.PDF
 [H-Watch_assembly.pdf]:                   /Hardware/H-Watch_V0.2/Documentation/H-Watch_assembly.PDF
 [H-Watch_maufacturing.pdf]:               /Hardware/H-Watch_V0.2/Documentation/H-Watch_manufacturing.PDF
 [H-Watch_layers.pdf]:                     /Hardware/H-Watch_V0.2/Documentation/H-Watch_layers.PDF
