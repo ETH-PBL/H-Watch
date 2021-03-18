@@ -1,0 +1,10 @@
+Output: BOM
+Type  : BOM
+From  : Variant [NoU3] of Project [H-Watch.PrjPcb]
+   Generated File[H-Watch_BOM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:01:39 On 08/10/2020

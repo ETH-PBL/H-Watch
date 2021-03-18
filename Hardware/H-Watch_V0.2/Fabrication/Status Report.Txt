@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:37:19 On 05.05.2020
+
+Output: OrderBOM
+Type  : BOM
+From  : Variant [NoU2] of Project [H-Watch.PrjPcb]
+   Generated File[OrderBOM-BOM1(NoU2).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:37:39 On 05.05.2020

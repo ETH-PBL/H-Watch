@@ -1,0 +1,14 @@
+*************************************************************
+FileName = H-Watch_Coating.GBR
+AutoAperture = True
+*************************************************************
+Generating : Board
+      File : H-Watch_Coating.GM4
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D10
+*************************************************************
+
