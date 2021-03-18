@@ -79,13 +79,16 @@ The H-Watchs housing, as well as its energy-saving memory LCD display, was taken
 ### PCB 
 The H-Watchs printed circuit board (PCB) is built of 6 Layers with a total board thichness of only 0.83mm. Further informations about the PCB can be found here:
 
-File                        | Content
-----------------------------|--------
-[H_Watch_schematics.pdf]    | Schematics of the H-Watch.  
-[H_Watch_connectors. pdf]   | Description of the position and functionality of all connectors and test pionts.
-[H_Watch_assembly.pdf]      | Assembly drawings of the top- and bottom-side of the PCB.
-[H_Watch_fabrication.pdf]   | Detailed fabrication information about the exansion board; thickness, dimensions and defined layer stack.
-[H-Watch_layers.pdf]        | Routing overview of all six copper layers.
+File                                  | Content
+--------------------------------------|--------
+[H-Watch_schematics.pdf]              | Schematics of the H-Watch.  
+[H-Watch_connectors.pdf]              | Description of the position and functionality of all connectors and test pionts.
+[H-Watch_assembly.pdf]                | Assembly drawings of the top- and bottom-side of the PCB.
+[H-Watch_manufacturing.pdf]           | Detailed fabrication information about the exansion board; thickness, dimensions and defined layer stack.
+[H-Watch_layers.pdf]                  | Routing overview of all six copper layers.
+[H-Watch_3D.pdf]                      | 3D model of the H-Watches hardware
+[H-Watch_complete_documentation.pdf]  | The complete documentation contains all files above, excluding the 3D-PDF
+
 
 The latest Altium files of of the PCB can be found [here][latest_altium_files]
 
@@ -120,12 +123,16 @@ The latest Altium files of of the PCB can be found [here][latest_altium_files]
 [powerwatch_url]:   https://www.powerwatch.com/collections/powerwatch/products/black-ops-pack-10  
 
 <!--Subsection PCB-->
-<!--[H_Watch_schematics.pdf]:
-[H_Watch_connectors. pdf]:
-[H_Watch_assembly.pdf]:
-[H_Watch_fabrication.pdf]:
-[H-Watch_layers.pdf]: -->
-[latest_altium_files]:      /Hardware/H-Watch_V0.1/   
+
+
+[H-Watch_schematics.pdf]:                 /Hardware/H-Watch_V0.2/Documentation/H-Watch_schematics.PDF
+[H-Watch_connectors.pdf]:                 /Hardware/H-Watch_V0.2/Documentation/H-Watch_connectors.PDF
+[H-Watch_assembly.pdf]:                   /Hardware/H-Watch_V0.2/Documentation/H-Watch_assembly.PDF
+[H-Watch_manufacturing.pdf]:              /Hardware/H-Watch_V0.2/Documentation/H-Watch_manufacturing.PDF
+[H-Watch_layers.pdf]:                     /Hardware/H-Watch_V0.2/Documentation/H-Watch_layers.PDF
+[H-Watch_3D.pdf]:                         /Hardware/H-Watch_V0.2/Documentation/H-Watch_3D.PDF
+[H-Watch_complete_documentation.pdf]:     /Hardware/H-Watch_V0.2/Documentation/H-Watch_complete_documentation.PDF
+[latest_altium_files]:                    /Hardware/H-Watch_V0.2/   
 
 [contributors-shield]: https://img.shields.io/github/contributors/tommasopolonelli/SynthSense-WSN-UAV.svg?style=flat-square
 [contributors-url]: https://github.com/tommasopolonelli/SynthSense-WSN-UAV/graphs/contributors
