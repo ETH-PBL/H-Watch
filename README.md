@@ -141,7 +141,7 @@ The latest Altium files of of the PCB can be found [here][latest_altium_files]
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/ETH-PBL/H-Watch.svg?style=flat-square
-[contributors-url]: https://github.com/ETH-PBL/H-WatchV/graphs/contributors
+[contributors-url]: https://github.com/ETH-PBL/H-Watch/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ETH-PBL/H-Watch.svg?style=flat-square
 [forks-url]: https://github.com/ETH-PBL/H-Watch/network/members
 [stars-shield]: https://img.shields.io/github/stars/ETH-PBL/H-Watch.svg?style=flat-square
