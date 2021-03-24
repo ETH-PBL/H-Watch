@@ -139,14 +139,15 @@ The latest Altium files of of the PCB can be found [here][latest_altium_files]
 [H-Watch_complete_documentation.pdf]:     /Hardware/H-Watch_V0.2/Documentation/H-Watch_complete_documentation.PDF
 [latest_altium_files]:                    /Hardware/H-Watch_V0.2/   
 
-[contributors-shield]: https://img.shields.io/github/contributors/tommasopolonelli/SynthSense-WSN-UAV.svg?style=flat-square
-[contributors-url]: https://github.com/tommasopolonelli/SynthSense-WSN-UAV/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tommasopolonelli/SynthSense-WSN-UAV.svg?style=flat-square
-[forks-url]: https://github.com/tommasopolonelli/SynthSense-WSN-UAV/network/members
-[stars-shield]: https://img.shields.io/github/stars/tommasopolonelli/SynthSense-WSN-UAV.svg?style=flat-square
-[stars-url]: https://github.com/tommasopolonelli/SynthSense-WSN-UAV/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tommasopolonelli/SynthSense-WSN-UAV.svg?style=flat-square
-[issues-url]: https://github.com/tommasopolonelli/SynthSense-WSN-UAV/issues
-[license-shield]: https://img.shields.io/github/license/tommasopolonelli/SynthSense-WSN-UAV.svg?style=flat-square
-[license-url]: https://github.com/tommasopolonelli/SynthSense-WSN-UAV/blob/master/LICENSE
+
+[contributors-shield]: https://img.shields.io/github/contributors/ETH-PBL/H-Watch.svg?style=flat-square
+[contributors-url]: https://github.com/ETH-PBL/H-WatchV/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ETH-PBL/H-Watch.svg?style=flat-square
+[forks-url]: https://github.com/ETH-PBL/H-Watch/network/members
+[stars-shield]: https://img.shields.io/github/stars/ETH-PBL/H-Watch.svg?style=flat-square
+[stars-url]: https://github.com/ETH-PBL/H-Watch/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ETH-PBL/H-Watch.svg?style=flat-square
+[issues-url]: https://github.com/ETH-PBL/H-Watch/issues
+[license-shield]: https://img.shields.io/github/license/ETH-PBL/H-Watch.svg?style=flat-square
+[license-url]: https://github.com/ETH-PBL/H-Watch/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
