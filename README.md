@@ -106,7 +106,9 @@ The latest Altium files of of the PCB can be found [here][latest_altium_files]
 ### Installation
 
 
-
+## Acknowledges
+The authors recognise and thank the European Open Science Cloud (EOSC) for financial support under COVID-19 research to open access grant agreements.
+EOSCsecretariat.eu has received funding from the European Union's Horizon Programme call H2020-INFRAEOSC-05-2018-2019, grant Agreement number 831644.
 
 
 
