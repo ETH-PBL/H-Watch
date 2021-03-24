@@ -94,7 +94,12 @@ The latest Altium files of of the PCB can be found [here][latest_altium_files]
 
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
+
+* STM32CubeIDE (v1.01)
+* STM32CubeMX
+* Firmware Package FW_WB V1.8.0
 
 #### Software
 
