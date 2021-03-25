@@ -106,13 +106,26 @@ The latest Altium files of of the PCB can be found [here][latest_altium_files]
 ### Installation
 
 
+
 ## Acknowledges
 The authors recognise and thank the European Open Science Cloud (EOSC) for financial support under COVID-19 research to open access grant agreements.
 EOSCsecretariat.eu has received funding from the European Union's Horizon Programme call H2020-INFRAEOSC-05-2018-2019, grant Agreement number 831644.
 
+If you use **H-Watch** in an academic or industrial context, please cite the following publications:
 
-
-
+~~~~
+@INPROCEEDINGS{20.500.11850/476189,
+	copyright = {Creative Commons Attribution 4.0 International},
+	year = {2021-05-22},
+	author = {Polonelli, Tommaso and Schulthess, Lukas and Mayer, Philipp and Magno, Michele and Benini, Luca},
+	size = {6 p. submitted version},
+	keywords = {wearable device; Covid-19; smart sensing; low power design; Tiny Machine Learning; wireless sensor networks},
+	language = {en},
+	DOI = {10.3929/ethz-b-000476189},
+	title = {H-Watch: An Open, Connected Platform for AI-Enhanced COVID19 Infection Symptoms Monitoring and Contact Tracing.},
+	Note = {IEEE International Symposium on Circuits and Systems (ISCAS 2021); Conference Location: online; Conference Date: May 22–28}
+}
+~~~~
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
