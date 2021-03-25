@@ -1,0 +1,1 @@
+# STM32CubeIDE template project for STM32WB55 based on TensorFlow Lite micro.
