@@ -97,8 +97,7 @@ The latest Altium files of of the PCB can be found [here][latest_altium_files]
 
 ## Getting Started
 
-* STM32CubeIDE (v1.01)
-* STM32CubeMX
+* [STM32CubeIDE][stmcubeIDE_url]
 * Firmware Package FW_WB V1.8.0
 
 #### Software
@@ -153,6 +152,9 @@ If you use **H-Watch** in an academic or industrial context, please cite the fol
 [H-Watch_3D.pdf]:                         /Hardware/H-Watch_V0.2/Documentation/H-Watch_3D.PDF
 [H-Watch_complete_documentation.pdf]:     /Hardware/H-Watch_V0.2/Documentation/H-Watch_complete_documentation.PDF
 [latest_altium_files]:                    /Hardware/H-Watch_V0.2/   
+
+
+[stmcubeIDE_url]:	https://www.st.com/en/development-tools/stm32cubeide.html
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/ETH-PBL/H-Watch.svg?style=flat-square
